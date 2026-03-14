@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hello Github
+=======
+Hello Git
+Feature code
+Feature code
+>>>>>>> bedcb96 (Added login feature)
